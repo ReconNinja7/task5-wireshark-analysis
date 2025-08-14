@@ -40,37 +40,37 @@ The objective was to inspect multiple protocols, apply filters, and document pac
 ## Screenshots
 
 ### 1. ARP Traffic Analysis
-![ARP Traffic](a0.png)  
+![ARP Traffic](arp_traffic.png)  
 Displays **Address Resolution Protocol** broadcasts for resolving IP to MAC addresses.
 
 ---
 
 ### 2. HTTP Traffic Analysis
-![HTTP Traffic](a7.png)  
+![HTTP Traffic](http_traffic.png)  
 Shows HTTP GET requests and responses including headers and requested resources.
 
 ---
 
 ### 3. DNS Traffic Analysis
-![DNS Traffic](a8.png)  
+![DNS Traffic](dns_traffic.png)  
 Captured DNS queries and responses, showing resolved domain names and IP addresses.
 
 ---
 
 ### 4. TCP Handshake Analysis
-![TCP Handshake](a9.png)  
+![TCP Handshake](tcp_handshake.png)  
 Filtered initial **SYN** packets used in TCP connection establishment.
 
 ---
 
 ### 5. TLS/QUIC Secure Communication
-![TLS Traffic](a10.png)  
+![TLS Traffic](tls_traffic.png)  
 Observed encrypted traffic and handshake details for secure HTTPS connections.
 
 ---
 
 ### 6. ICMP Ping Requests/Replies
-![ICMP Traffic](a11.png)  
+![ICMP Traffic](icmp_traffic.png)  
 Displayed ping request/response sequences for connectivity testing.
 
 ---
@@ -84,8 +84,5 @@ This task demonstrated:
 
 ---
 
-## Author
-**[Your Name or GitHub Username]**  
-GitHub: [Your GitHub Profile Link]  
 
 
